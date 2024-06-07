@@ -1,0 +1,1 @@
+First added disabled mode to the buttons in Login, Register, Create, Update and Profile components.
